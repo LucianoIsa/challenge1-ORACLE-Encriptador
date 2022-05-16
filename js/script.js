@@ -26,7 +26,7 @@ let boton2 = document.querySelector("#reproductor2")
 
 function imagen() {
     let clickImagen = document.querySelector("#input");
-    alert("😊 Este es un encriptador de texto desarrollado para que puedas esconder cualquier mensaje a tu gusto ✨💖")
+    alert("Este es un encriptador de texto desarrollado para esconder cualquier mensaje.Soy FullStack Developer y si te gusto recomendame. ")
 }
 
 function copy() {
